@@ -1,0 +1,4 @@
+.openai/
+GUIA_DO_MESTRE.md
+node_modules/
+*.log
